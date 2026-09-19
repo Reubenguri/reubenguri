@@ -9,7 +9,7 @@ budi123/budi123)
   - Gunakan generator seperti https://capsule-render.vercel.app/
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20[Nama%20Kamu]&fontSize=40&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20[Reuben%20Irniandi]&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
 <h1 align="center">[Reuben Irniandi]</h1>
@@ -19,7 +19,7 @@ budi123/budi123)
 
 ### Details / About Me
 
-- **Pekerjaan Saat ini**: [contoh: Mahasiswa/Karyawan di ...]
+- **Pekerjaan Saat ini**: [contoh: Mahasiswa Binus @Alam Sutera]
 - **Sedang mendalami**: [contoh: React.js, Git & GitHub Workflow]
 - **Target**: [contoh: Menjadi Frontend Developer profesional]
 - **Fun fact**: [isi sesuatu yang unik tentang kamu]
