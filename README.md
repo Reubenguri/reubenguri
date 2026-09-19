@@ -53,7 +53,9 @@
 
 ### GitHub Stats (opsional)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reubenguri&show_icons=true&theme=default)
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=Reubenguri" alt="GitHub Stats" />
+</p>
 
 <!--
   Ganti "USERNAME_KAMU" dengan username GitHub kamu.
