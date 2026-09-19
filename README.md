@@ -6,7 +6,7 @@
   - Gunakan generator seperti https://capsule-render.vercel.app/
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20[Reuben%20guri]&fontSize=40&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f0e68c&height=200&section=header&text=Halo,%20Saya%20[Reubenguri]&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
 <h1 align="center">[Reuben Irniandi]</h1>
@@ -26,10 +26,10 @@
 ### Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/username-kamu" target="_blank">
+  <a href="https://www.linkedin.com/in/reuben-i-08ab3034a/ target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/username-kamu" target="_blank">
+  <a href="https://www.instagram.com/reuben.irniandi?stkn=N3l1NHptYXp0OThw" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:reubenirniandi2@gmail.com">
