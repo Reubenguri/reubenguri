@@ -1,7 +1,4 @@
 # Portfolio Reuben
-budi123/budi123)
--->
-
 <!-- ===================== BANNER (opsional, nilai plus) ===================== -->
 <!--
   Tips banner gratis:
@@ -9,20 +6,20 @@ budi123/budi123)
   - Gunakan generator seperti https://capsule-render.vercel.app/
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20[Reuben%20Irniandi]&fontSize=40&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20[Reuben%20guri]&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
 <h1 align="center">[Reuben Irniandi]</h1>
-<p align="center">[Role/Status singkat, contoh: "Peserta Workshop Git & GitHub | Junior Frontend Enthusiast"]</p>
+<p align="center">[Role/Status singkat, contoh: "Peserta Workshop Git & GitHub | UI/UX Developer"]</p>
 
 ---
 
 ### Details / About Me
 
-- **Pekerjaan Saat ini**: [contoh: Mahasiswa Binus @Alam Sutera]
-- **Sedang mendalami**: [contoh: React.js, Git & GitHub Workflow]
-- **Target**: [contoh: Menjadi Frontend Developer profesional]
-- **Fun fact**: [isi sesuatu yang unik tentang kamu]
+- **Pekerjaan Saat ini**: [Mahasiswa Binus @Alam Sutera]
+- **Sedang mendalami**: [Git, Github, HackerRank, C]
+- **Target**: [AI Engineer]
+- **Fun fact**: [Saya suka bermain game strategi dan baru tahu coding]
 
 ---
 
@@ -35,7 +32,7 @@ budi123/budi123)
   <a href="https://instagram.com/username-kamu" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:email-kamu@example.com">
+  <a href="mailto:reubenirniandi2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
