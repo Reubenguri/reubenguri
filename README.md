@@ -12,7 +12,7 @@ budi123/budi123)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20[Nama%20Kamu]&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
-<h1 align="center">[Nama Kamu]</h1>
+<h1 align="center">[Reuben Irniandi]</h1>
 <p align="center">[Role/Status singkat, contoh: "Peserta Workshop Git & GitHub | Junior Frontend Enthusiast"]</p>
 
 ---
